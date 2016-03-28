@@ -1,0 +1,5 @@
+D55,100|Nanjing,100|DanYang,100|ZhenJiang,100|ChangZhou,100|WuXi,100|SuZhou,100|ShangHai,0|
+D63,100|Shenzhen,100|Nanjing,100|Shanxi,100|Chongqing,100|Sichuan,0|
+D98,100|NanJing,100|Hefei,100|Chuzhou,0|
+G30,100|Shanghai,100|Beijing,100|Tianjin,0|
+G77,100|Tianjin,100|Chongqing,100|Nanjing,100|Hangzhou,100|Nantong,100|Yangzhou,0|

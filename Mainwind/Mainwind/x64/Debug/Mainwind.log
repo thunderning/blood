@@ -1,0 +1,36 @@
+﻿生成启动时间为 2016/3/29 1:04:52。
+     1>项目“D:\QTpractice\Mainwind\Mainwind\Mainwind.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual stdio\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\QTcreator1\QT\5.6\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\QTcreator1\QT\5.6\msvc2015_64\include\QtCore /ID:\QTcreator1\QT\5.6\msvc2015_64\include\QtGui /ID:\QTcreator1\QT\5.6\msvc2015_64\include\QtWidgets /ID:\QTpractice\Mainwind\Mainwind\GeneratedFiles /ID:\QTcreator1\QT\5.6\msvc2015_64\include /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt buy.cpp
+         buy.cpp
+       Link:
+         D:\visual stdio\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\QTpractice\Mainwind\x64\Debug\\Mainwind.exe" /NOLOGO /LIBPATH:D:\QTcreator1\QT\5.6\msvc2015_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\QTpractice\Mainwind\x64\Debug\Mainwind.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\QTpractice\Mainwind\x64\Debug\Mainwind.lib" /MACHINE:X64 x64\Debug\ADD.obj
+         x64\Debug\addordelete.obj
+         x64\Debug\back.obj
+         x64\Debug\buy.obj
+         x64\Debug\DEL.obj
+         x64\Debug\Formm.obj
+         x64\Debug\moc_ADD.obj
+         x64\Debug\moc_addordelete.obj
+         x64\Debug\moc_back.obj
+         x64\Debug\moc_buy.obj
+         x64\Debug\moc_DEL.obj
+         x64\Debug\moc_getmessage.obj
+         x64\Debug\moc_mainwind.obj
+         x64\Debug\moc_print.obj
+         x64\Debug\moc_save.obj
+         x64\Debug\moc_trprint.obj
+         x64\Debug\qrc_mainwind.obj
+         x64\Debug\getmessage.obj
+         x64\Debug\main.obj
+         x64\Debug\mainwind.obj
+         x64\Debug\print.obj
+         x64\Debug\save.obj
+         x64\Debug\Train.obj
+         x64\Debug\trprint.obj
+         Mainwind.vcxproj -> D:\QTpractice\Mainwind\x64\Debug\Mainwind.exe
+     1>已完成生成项目“D:\QTpractice\Mainwind\Mainwind\Mainwind.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.41
